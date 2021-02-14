@@ -1,3 +1,7 @@
+# Ignore large file
+ratings.csv
+movies_metadata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -32,6 +36,9 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
+# Add config.py
+config_1.py
 
 # Installer logs
 pip-log.txt
