@@ -1,6 +1,6 @@
 # Ignore large file
-ratings.csv
-movies_metadata.csv
+# ratings.csv
+# movies_metadata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
